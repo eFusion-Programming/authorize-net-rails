@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'authorize/net/rails/version'
+require 'authorize_net/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "authorize-net-rails"
-  spec.version       = Authorize::Net::Rails::VERSION
+  spec.version       = AuthorizeNet::VERSION
   spec.platform      = Gem::Platform::RUBY
   spec.authors       = ["Larry Vaughn"]
   spec.email         = ["larryv@efusionpro.com"]
