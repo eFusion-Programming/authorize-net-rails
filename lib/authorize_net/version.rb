@@ -1,0 +1,3 @@
+module AuthorizeNetRails
+  VERSION = "0.0.1"
+end
