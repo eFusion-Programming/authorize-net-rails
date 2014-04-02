@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.platform      = Gem::Platform::RUBY
   spec.authors       = ["Larry Vaughn"]
   spec.email         = ["larryv@efusionpro.com"]
-  spec.summary       = %q{TODO: Authorize.Net SDK for rails.}
-  spec.description   = %q{TODO: Converted the download and install ruby gem to be more deploy friendly.}
+  spec.summary       = %q{Authorize.Net SDK for rails.}
+  spec.description   = %q{Converted the download and install ruby gem to be more deploy friendly.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
